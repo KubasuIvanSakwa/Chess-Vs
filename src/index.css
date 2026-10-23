@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+.check-glow {
+  background: radial-gradient(
+    circle, 
+    rgba(255, 0, 0, 0.8) 0%, 
+    rgba(255, 0, 0, 0) 70%
+  );
+  border-radius: 50%;
+}
+
+.chess-game-container {
+  cursor: none !important;
+}
+
+.chess-game-container * {
+  cursor: none !important;
+}
+
+.custom-cursor {
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  font-size: 32px;
+  transform: translate(-50%, -50%);
+  user-select: none;
+  /* Smooth out the movement slightly */
+  transition: transform 0.05s ease-out;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+  /* Handle */
+::-webkit-scrollbar-thumb {
+    background:#9BA1AD;
+    border-radius: 10px;
+}
