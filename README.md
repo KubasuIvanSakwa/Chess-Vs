@@ -26,7 +26,7 @@
     <a href="https://github.com/KubasuIvanSakwa/Chess-Vs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/KubasuIvanSakwa/Chess-Vs">View Demo</a>
+    <a href="[https://github.com/KubasuIvanSakwa/Chess-Vs](https://chessvs.vercel.app/)">View Demo</a>
     ·
     <a href="https://github.com/KubasuIvanSakwa/Chess-Vs/issues">Report Bug</a>
     ·
