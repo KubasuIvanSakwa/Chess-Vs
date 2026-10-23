@@ -68,7 +68,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/KubasuIvanSakwa/Chess-Vs)
+<img width="1217" height="675" alt="image" src="https://github.com/user-attachments/assets/057118bf-f2b7-4542-8510-f678b08915d0" />
+
 
 **Chess-Vs** is an interactive, real-time multiplayer chess application designed to provide a seamless gaming experience. Whether you are a grandmaster or a beginner, this platform allows users to play against friends or matched opponents over the web with low latency and an intuitive UI. 
 
@@ -76,22 +77,18 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Node.js][Node.js]][Node-url]
-* [![Socket.io][Socket.io]][Socket-url]
-* [![TailwindCSS][TailwindCSS]][Tailwind-url]
+* [![React][React.js]][https://github.com/react/react]
+* [![Stockfish][Stockfish][https://github.com/official-stockfish/stockfish]
+* [![TailwindCSS][TailwindCSS]][https://github.com/tailwindlabs/tailwindcss]
 
-*(Update the technologies above to reflect your specific stack.)*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- KEY FEATURES -->
 ## Key Features
 
-* ♟️ **Real-Time Multiplayer:** Play against friends seamlessly using WebSockets.
+* ♟️ **Real-Time LLM Multiplayer:** Play against Stock Fish or LLM's seamlessly.
 * 🛡️ **Move Validation:** Complete chess logic implemented (en passant, castling, promotion).
-* ⏱️ **Game Timers:** Standard time controls (Bullet, Blitz, Rapid).
-* 💬 **In-Game Chat:** Communicate with your opponent during the match.
 * 📱 **Responsive Design:** Play on desktop, tablet, or mobile devices.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,7 +103,7 @@ To get a local copy up and running, follow these simple example steps.
 Ensure you have the following installed on your local machine:
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 * Node.js (v14.x or higher)
 
@@ -124,11 +121,6 @@ Ensure you have the following installed on your local machine:
    ```sh
    npm install
    ```
-4. Create a `.env` file in the root directory and configure your environment variables:
-   ```env
-   PORT=5000
-   # Add other relevant environment variables here
-   ```
 5. Start the development server
    ```sh
    npm run dev
@@ -140,9 +132,8 @@ Ensure you have the following installed on your local machine:
 ## Usage
 
 Once the application is running, navigate to `http://localhost:3000` (or your configured port) in your web browser. 
-1. Create a new game room.
-2. Share the room code with a friend.
-3. Start playing!
+1. Choose how to play LLM vs LLM / Player vs LLM / Player vs Player / StockFish vs Player / StockFish vs LLM.
+3. Start playing or enjoy watching LLM's play!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +142,6 @@ Once the application is running, navigate to `http://localhost:3000` (or your co
 
 - [x] Basic Chess Board UI
 - [x] Move Validation Logic
-- [x] WebSockets for Real-Time Play
 - [ ] User Authentication & Profiles
 - [ ] Matchmaking System (Elo Rating)
 - [ ] Computer/AI Opponent (Stockfish integration)
