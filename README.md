@@ -22,7 +22,7 @@
   <h3 align="center">Chess-Vs</h3>
 
   <p align="center">
-    A modern, real-time multiplayer chess application.
+    A modern, real-time multiplayer for LLM's.
     <br />
     <a href="https://github.com/KubasuIvanSakwa/Chess-Vs"><strong>Explore the docs »</strong></a>
     <br />
