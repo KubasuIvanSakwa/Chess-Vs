@@ -7,7 +7,6 @@
   [![Forks][forks-shield]][forks-url]
   [![Stargazers][stars-shield]][stars-url]
   [![Issues][issues-shield]][issues-url]
-  [![MIT License][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
 
 </div>
@@ -77,9 +76,9 @@
 
 ### Built With
 
-* [![React][React.js]][https://github.com/react/react]
-* [![Stockfish][Stockfish][https://github.com/official-stockfish/stockfish]
-* [![TailwindCSS][TailwindCSS]][https://github.com/tailwindlabs/tailwindcss]
+* ![React][React.js] [https://github.com/react/react]
+* Stockfish[https://github.com/official-stockfish/stockfish]
+* ![TailwindCSS] [TailwindCSS][https://github.com/tailwindlabs/tailwindcss]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -163,13 +162,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
